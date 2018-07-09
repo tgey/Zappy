@@ -1,0 +1,13 @@
+NormEZ.rb
+.vscode
+*.o
+zappy_ai
+zappy_server
+zappy_server_intra
+#*#
+~*
+libconnect.so
+zappy_graphical
+test_server
+server_test
+test_zappy_server
