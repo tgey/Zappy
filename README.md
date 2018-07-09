@@ -2,7 +2,9 @@
 
 Contributors:
 Tristan Flatot > https://github.com/Flatot
+
 Nicolas Rubio > https://github.com/RubioN
+
 Théo Ferreira
 Florian Giroud
 Valentin Gabriel
