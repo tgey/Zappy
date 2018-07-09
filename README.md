@@ -1,5 +1,12 @@
 # Readme Zappy
 
+Contributors:
+Tristan Flatot > https://github.com/Flatot
+Nicolas Rubio > https://github.com/RubioN
+Théo Ferreira
+Florian Giroud
+Valentin Gabriel
+
 ##0. Recommendation
 ####It is recommended to run in this order: the server, the graphical client then the AI.
 
