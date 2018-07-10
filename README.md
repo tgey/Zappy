@@ -6,14 +6,16 @@ Tristan Flatot > https://github.com/Flatot
 Nicolas Rubio > https://github.com/RubioN
 
 Théo Ferreira
+
 Florian Giroud
+
 Valentin Gabriel
 
-##0. Recommendation
-####It is recommended to run in this order: the server, the graphical client then the AI.
+## 0. Recommendation
+It is recommended to run in this order: the server, the graphical client then the AI.
 
 
-##1. Graphical Client
+## 1. Graphical Client
 
 Before launching graphical client:
 > export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.
@@ -32,7 +34,7 @@ Graphical commands:
 
 ***
 
-##2. Server
+## 2. Server
 
 Launching server:
 > ./zappy_server -p port -x width -y height -n name1 name2 ... -c clientsNb -f freq
@@ -46,7 +48,7 @@ Launching server:
 
 ***
 
-##3. AI
+## 3. AI
 
 Launching AI:
 >  ./zappy_ai -p port -n name -h machine
