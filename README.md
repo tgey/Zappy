@@ -6,7 +6,7 @@
 
 [Nicolas Rubio](https://github.com/RubioN)
 
-Théo Ferreira
+[Théo Ferreira](https://github.com/theo-hubgrade)
 
 Florian Giroud
 
