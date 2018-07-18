@@ -13,32 +13,14 @@ Florian Giroud
 Valentin Gabriel
 
 ### Rating
-![Screenshot](Notation.png)
+![Screenshot](screenshots/Notation.png)
 
 ## 0. Recommendation
 It is recommended to run in this order: the server, the graphical client then the AI.
 
 
-## 1. Graphical Client
 
-Before launching graphical client:
-> export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.
-
-Launching graphical client:
-> ./zappy_graphical
-
-Graphical commands:
-* A: Zoom
-* Z: Unzoom
-* Arrows: Move on the map
-* Left click: Focus on tile
-* Right click: Scroll to clicked tile
-* Escape: Go back to previous step
-* Alt + F4: Close graphical window
-
-***
-
-## 2. Server
+## 1. Server
 
 Launching server:
 > ./zappy_server -p port -x width -y height -n name1 name2 ... -c clientsNb -f freq
@@ -49,6 +31,34 @@ Launching server:
 * nameX is the name of the team X
 * clientsNb is the number of authorized clients per team
 * freq is the reciprocal of time unit for execution of actions
+
+***
+
+## 2. Graphical Client
+
+Before launching graphical client:
+> export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.
+
+Launching graphical client:
+> ./zappy_graphical
+
+
+![Screenshot](screenshots/zappy_graph.png)
+
+
+![Screenshot](screenshots/zappy.png)
+
+Graphical commands:
+* A: Zoom
+* Z: Unzoom
+* Arrows: Move on the map
+* Left click: Focus on tile
+* Right click: Scroll to clicked tile
+* Escape: Go back to previous step
+* Alt + F4: Close graphical window
+
+
+![Screenshot](screenshots/zappy_game.png)
 
 ***
 
