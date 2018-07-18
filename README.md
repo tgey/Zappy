@@ -1,5 +1,7 @@
 # Readme Zappy
 
+[![CodeFactor](https://www.codefactor.io/repository/github/tgey/zappy/badge)](https://www.codefactor.io/repository/github/tgey/zappy)
+
 ### Contributors
 
 [Tristan Flatot](https://github.com/Flatot)
