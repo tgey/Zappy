@@ -2,9 +2,9 @@
 
 ### Contributors
 
-Tristan Flatot > https://github.com/Flatot
+[Tristan Flatot](https://github.com/Flatot)
 
-Nicolas Rubio > https://github.com/RubioN
+[Nicolas Rubio](https://github.com/RubioN)
 
 Théo Ferreira
 
